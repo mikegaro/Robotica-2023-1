@@ -6,7 +6,7 @@
  - Garcia Oñate Miguel Angel
  - Mendoza Reyes Carlos Mauricio
  - Lalo
- - Dante
+ - Torres Guerrero Adair
  
 ## Objetivo general
 - Rediseñar el robot móvil dofbot para su posterior utilización en pruebas
