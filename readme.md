@@ -90,3 +90,10 @@ para ensamblar el brazo del modelo comercial.
 Una vez planificado el espacio donde se implementarán las columnas, se procedió a realizar el modelado final:
 ![Imagen de una segunda plataforma sobre el diseño previamente mostrado](/images/Segundo_piso.jpg)
 
+
+### Ensamble del brazo robotico:
+Para esta parte, se buscó establecer la pieza cercano al centro de masa, de tal modo que no afectara la localización de la Nvidia y pudiera cubrir los requerimientos 
+planteados por el profesor.
+
+---imagen del ensamble con la garra
+
