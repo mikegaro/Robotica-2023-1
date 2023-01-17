@@ -88,6 +88,5 @@ para ensamblar el brazo del modelo comercial.
 
 ### Implementación del segundo piso del robot
 Una vez planificado el espacio donde se implementarán las columnas, se procedió a realizar el modelado final:
-
----Imagen del modelo con segundo piso
+![Descripción de la imagen](/imagen/Segundo_piso.jpg)
 
