@@ -84,4 +84,10 @@ Los IBT2 se montaron en voladizo esto ayudará a mejorar el paso del aire a trav
 En este punto, se contempló que nuestro diseño (una vez optimizado el espacio) debería contener unas columnas que nos permitieran dejar un piso libre
 para ensamblar el brazo del modelo comercial.
 
----imagen de la Garra
+![Descripción de la imagen](/images/Garra.jpg)
+
+### Implementación del segundo piso del robot
+Una vez planificado el espacio donde se implementarán las columnas, se procedió a realizar el modelado final:
+
+---Imagen del modelo con segundo piso
+
