@@ -79,3 +79,9 @@ Nos encontramos con el problema de no poder ensamblar los componentes a la placa
 Los IBT2 se montaron en voladizo esto ayudará a mejorar el paso del aire a través de los disipadores.
 
 ![Descripción de la imagen](/images/trece.jpg)
+
+### Diseño del segundo Piso del Robot, para ensamblaje del brazo.
+En este punto, se contempló que nuestro diseño (una vez optimizado el espacio) debería contener unas columnas que nos permitieran dejar un piso libre
+para ensamblar el brazo del modelo comercial.
+
+---imagen de la Garra
