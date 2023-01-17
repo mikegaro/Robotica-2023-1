@@ -68,7 +68,8 @@ Al no conocer las dimensiones de la PCB se propuso crear un piso intermedio en v
  
 Para simular la PCB y realizar el montaje de los componentes se insertaron dos protoboards.
 
-# Aqui falta foto de protoboards
+![Descripción de la imagen](/images/Protoboard.jpg)
+
 
 ### Ensamble de componentes principales
 Nos encontramos con el problema de no poder ensamblar los componentes a la placa inferior debido a todo el espacio que ocupa la batería. Para solucionar esto, se propuso un piso superior en donde se montaron cada uno de los IBT2. 
