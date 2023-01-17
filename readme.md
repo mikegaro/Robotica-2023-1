@@ -3,7 +3,7 @@
 ## Integrantes
  - Garcia Oñate Miguel Angel
  - Mendoza Reyes Carlos Mauricio
- - Lalo
+ - Lazcano Romero Eduardo Alejandro
  - Torres Guerrero Adair
  ---
 ## Objetivo general
