@@ -68,7 +68,8 @@ Al no conocer las dimensiones de la PCB se propuso crear un piso intermedio en v
  
 Para simular la PCB y realizar el montaje de los componentes se insertaron dos protoboards.
 
-# Aqui falta foto de protoboards
+![Descripción de la imagen](/images/Protoboard.jpg)
+
 
 ### Ensamble de componentes principales
 Nos encontramos con el problema de no poder ensamblar los componentes a la placa inferior debido a todo el espacio que ocupa la batería. Para solucionar esto, se propuso un piso superior en donde se montaron cada uno de los IBT2. 
@@ -78,3 +79,21 @@ Nos encontramos con el problema de no poder ensamblar los componentes a la placa
 Los IBT2 se montaron en voladizo esto ayudará a mejorar el paso del aire a través de los disipadores.
 
 ![Descripción de la imagen](/images/trece.jpg)
+
+### Diseño del segundo Piso del Robot, para ensamblaje del brazo.
+En este punto, se contempló que nuestro diseño (una vez optimizado el espacio) debería contener unas columnas que nos permitieran dejar un piso libre
+para ensamblar el brazo del modelo comercial.
+
+![Descripción de la imagen](/images/Garra.jpg)
+
+### Implementación del segundo piso del robot
+Una vez planificado el espacio donde se implementarán las columnas, se procedió a realizar el modelado final:
+![Imagen de una segunda plataforma sobre el diseño previamente mostrado](/images/Segundo_piso.jpg)
+
+
+### Ensamble del brazo robotico:
+Para esta parte, se buscó establecer la pieza cercano al centro de masa, de tal modo que no afectara la localización de la Nvidia y pudiera cubrir los requerimientos 
+planteados por el profesor.
+
+---imagen del ensamble con la garra
+
